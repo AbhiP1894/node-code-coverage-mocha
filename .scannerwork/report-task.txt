@@ -2,5 +2,5 @@ projectKey=26016_ALM_PDFGeneration_Demo:master
 serverUrl=http://sonar.cybage.com
 serverVersion=7.9.1.27448
 dashboardUrl=http://sonar.cybage.com/dashboard?id=26016_ALM_PDFGeneration_Demo%3Amaster
-ceTaskId=AZIJxYTBe6II3zhBaq11
-ceTaskUrl=http://sonar.cybage.com/api/ce/task?id=AZIJxYTBe6II3zhBaq11
+ceTaskId=AZIKBOBoe6II3zhBaq2Q
+ceTaskUrl=http://sonar.cybage.com/api/ce/task?id=AZIKBOBoe6II3zhBaq2Q

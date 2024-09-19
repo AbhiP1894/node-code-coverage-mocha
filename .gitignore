@@ -9,3 +9,4 @@ coverage/
 node-code-coverage-mocha/
 .nyc_output/
 .vscode/
+sonar-project.properties
