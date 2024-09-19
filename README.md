@@ -10,7 +10,7 @@ Great for testing simple deployments to the cloud
 
 ## Run test
 `npm test`
-## Run coverag
+## Run coverage
 `npm run cover`
 ## Generate Coverage Report
 `npx nyc report --reporter=lcov`
