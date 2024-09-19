@@ -1,0 +1,11 @@
+.DS_Store
+# Ignore node_modules
+node_modules/
+
+# Ignore Sonar Scanner output
+.sonar-scanner/
+
+coverage/
+node-code-coverage-mocha/
+.nyc_output/
+.vscode/
